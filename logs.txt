@@ -1,0 +1,11 @@
+commit 49d79c20e7a82a404ee1fe01827941bf603ead60
+Author: Lari Magistris <larimagisitris@hotmail.com>
+Date:   Thu Nov 27 13:30:13 2025 -0300
+
+    alterando limite para 100
+
+commit 970faba6f22d14857551c1f5163387d17c925fc5
+Author: Lari Magistris <larimagisitris@hotmail.com>
+Date:   Thu Nov 27 13:06:40 2025 -0300
+
+    projeto inicial
